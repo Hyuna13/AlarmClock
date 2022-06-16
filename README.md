@@ -1,4 +1,4 @@
 # AlarmClock
 
-+ Building Alarm Clock using JavaScript
++ Building Alarm Clock by using JavaScript
 + Inspired by CodingNepal
